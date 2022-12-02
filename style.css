@@ -1,0 +1,362 @@
+.bg-container {
+    position: absolute;
+    width: 1440px;
+    height: 90px;
+    left: 0px;
+    top: 0px;
+    background: #F0F0F0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.logo-image {
+    padding: 30px;
+    padding-left: 50px;
+}
+
+.home {
+    position: absolute;
+    font-size: 25px;
+    left: 1100px;
+    top: 35px;
+}
+
+.screw {
+    font-size: 25px;
+    position: absolute;
+    left: 1150px;
+    top: 35px;
+    
+}
+
+.user {
+    font-size: 25px;
+    position: absolute;
+    left: 1200px;
+    top: 35px;
+}
+
+.line {
+    font-size: 25px;
+    position: absolute;
+    left: 1250px;
+    top: 35px;
+}
+
+
+.bg-small {
+    position: absolute;
+    background-color: #F0F0F0;
+    width: 96px;
+    height: 826px;
+    left: 0px;
+    top: 205px;
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-top-left-radius: 0px;
+}
+
+.bar {
+    color: #FFFFFF;
+    font-size: 20px;
+    padding: 15px;
+    padding-left: 65px;
+}
+
+.bg-small-top {
+    background-color: black;
+    border-top-right-radius: 10px;
+    width: 96px;
+    height: 50px;
+}
+
+.bg-big {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1136px;
+    height: 2849px;
+    left: 177px;
+    top: 273px;
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.bg-big-top {
+    position: absolute;
+    width: 1136px;
+    height: 51px;
+    left: 177px;
+    top: 222px;
+    background: #0029FF;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.heading {
+    font-size: 25px;
+    color: #F0F0F0;
+    padding-left: 40px;
+    font-family: sans-serif;
+}
+
+.sub-heading {
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.task-heading1 {
+    position: absolute;
+    width: 461px;
+    height: 51px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: black;
+    color: #F0F0F0;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.task-heading-1 {
+    width: 461px;
+    height: 320px;
+    margin-left: 80px;
+    margin-top: 80px;
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.heading1 {
+    margin-top: 50px;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.task-heading-2 {
+    position: absolute;
+    width: 448px;
+    height: 320px;
+    left: 638px;
+    top: 169px;
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.task-heading2 {
+    position: absolute;
+    width: 448px;
+    height: 51px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: black;
+    color: #F0F0F0;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.task-box {
+    position: absolute;
+    width: 350px;
+    height: 150px;
+    left: 50px;
+    right: 50px;
+    top: 70px;
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    border-radius: 15px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.task-box-heading {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: gray;
+    padding-left: 10px;
+}
+
+.task-box-button {
+    position: absolute;
+    left: 300px;
+    top: 240px;
+}
+
+.custom-button {
+    width: 100px;
+    height: 45px;
+    font-size: 20px;
+    color: white;
+    background-color: #0029FF;
+    border-radius: 8px;
+    border-width: 0px;
+}
+
+.span {
+    position: absolute;
+    left: 500px;
+    transform: rotate(90deg);
+    font-size: 20px;
+    color: #333;
+    font-weight: bolder;
+}
+
+.span2 {
+    position: absolute;
+    left: 420px;
+    top: 290px;
+    transform: rotate(90deg);
+    font-size: 20px;
+    color: #333;
+    font-weight: bolder;
+}
+
+.tast-heading-3 {
+    width: 448px;
+    height: 612px;
+    margin-left: 80px;
+    margin-top: 80px;
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.span3 {
+    position: absolute;
+    left: 510px;
+    top: 1158px;
+    transform: rotate(90deg);
+    font-size: 20px;
+    color: #333;
+    font-weight: bolder;
+}
+
+.task3-image {
+    position: absolute;
+    width: 448px;
+    height: 535px;
+    margin-top: 51px;
+}
+
+.task-heading-4 {
+    position: absolute;
+    width: 448px;
+    height: 320px;
+    left: 638px;
+    top: 569px;
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.task-heading4 {
+    position: absolute;
+    width: 448px;
+    height: 51px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: black;
+    color: #F0F0F0;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.span4 {
+    position: absolute;
+    left: 430px;
+    top: 295px;
+    transform: rotate(90deg);
+    font-size: 20px;
+    color: #333;
+    font-weight: bolder;
+}
+
+.task4-image {
+    position: absolute;
+    width: 448px;
+    height: 240px;
+    top: 53px;
+}
+
+.tast-heading-5 {
+    width: 448px;
+    height: 312px;
+    margin-left: 80px;
+    margin-top: 80px;
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.heading5 {
+    margin-top: 200px;
+    font-size: 15px;
+    font-family: sans-serif;
+
+}
+
+.span5 {
+    position: absolute;
+    left: 500px;
+    top: 1555px;
+    transform: rotate(90deg);
+    font-size: 20px;
+    color: #333;
+    font-weight: bolder;
+}
+
+.task5-image {
+    position: absolute;
+    width: 448px;
+    height: 140px;
+    margin-top: 53px;
+}
+
+.task-heading-6 {
+    position: absolute;
+    width: 448px;
+    height: 380px;
+    left: 638px;
+    top: 1260px;
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.video {
+    position: absolute;
+    top: 54px;
+}
+
+.task-heading6 {
+    position: absolute;
+    width: 448px;
+    height: 51px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: black;
+    color: #F0F0F0;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.span6 {
+    position: absolute;
+    left: 430px;
+    top: 355px;
+    transform: rotate(90deg);
+    font-size: 20px;
+    color: #333;
+    font-weight: bolder;
+}
